@@ -37,4 +37,4 @@ select JoltTransform('{
 }') as ss;
 
 ```
-
+* See JOLT sample -  https://jolt-demo.appspot.com/#inception
