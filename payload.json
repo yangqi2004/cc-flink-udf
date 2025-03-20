@@ -1,0 +1,5 @@
+{ "rating": { "primary": { "value": 3 }, "quality": { "value": 5 } } }
+{ "rating": { "primary": { "value": 4 }, "quality": { "value": 1 } } }
+{ "rating": { "primary": { "value": 5 }, "quality": { "value": 2 } } }
+{ "rating": { "primary": { "value": 6 }, "quality": { "value": 3 } } }
+{ "rating": { "primary": { "value": 7 }, "quality": { "value": 4 } } }
